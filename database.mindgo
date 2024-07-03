@@ -1,0 +1,49 @@
+data_jenis_wisata
+    id_jenis_wisata
+    jenis_wisata
+    nilai
+data_wilayah
+    id_wilayah
+    wilayah
+    nilai
+data_rating
+    id_rating
+    rating
+    nilai
+data_harga_tiket
+    id_harga_tiket
+    harga_tiket
+    nilai
+data_hari_operasional
+    id_hari_operasional
+    hari_operasional
+    nilai
+data_jam_operasional
+    id_jam_operasional
+    jam_operasional
+    nilai
+data_bobot
+    id_bobot
+    jenis_wisata
+    wilayah
+    rating
+    harga_tiket
+    hari_operasional
+    jam_operasional
+data_wisata
+    id_wisata
+    nama_wisata
+    foto
+    deskripsi
+    koordinat
+    id_jenis_wisata
+    id_wilayah
+    id_rating
+    id_harga_tiket
+    id_hari_operasional
+    id_jam_operasional
+data_admin
+    id_admin
+    nama_lengkap
+    username
+    password
